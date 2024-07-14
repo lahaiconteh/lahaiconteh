@@ -1,6 +1,6 @@
 # Lahai Conteh
 
-I am Lahai Conteh, an experienced development professional in both qualitative and quantitative research methods, project monitoring and evaluation, and stakeholder engagement. I am passionate about leveraging data-driven insights to improve project outcomes, enhance community well-being, inform evidence-based policy changes, and drive sustainable development initiatives. With a strong foundation in international development studies and sociology, I am currently expanding my expertise in global supply chain management and change at Maastricht University.
+I am an experienced development professional in both qualitative and quantitative research methods, project monitoring and evaluation, and stakeholder engagement. I am passionate about leveraging data-driven insights to improve project outcomes, enhance community well-being, inform evidence-based policy changes, and drive sustainable development initiatives. With a strong foundation in international development studies and sociology, I am currently expanding my expertise in global supply chain management and change at Maastricht University.
 
 ## Key Strengths
 - 🌱 **Community Development:** Experienced designing and implementing community-focused initiatives promoting sustainable growth.
