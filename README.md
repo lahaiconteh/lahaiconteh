@@ -18,3 +18,4 @@ I am an experienced development professional in both qualitative and quantitativ
 - **BSc (Hons) Sociology** - Njala University, Sierra Leone
 
 I am passionate about contributing to projects and the well-being of communities through innovative data-driven solutions. I thrive in environments that challenge me to lead projects that assess and refine developmental methodologies, ultimately fostering substantive and sustainable change.
+
